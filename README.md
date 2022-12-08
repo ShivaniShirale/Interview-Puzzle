@@ -1,1 +1,1 @@
-# Interview Puzzle App
+# Interview Puzzle
